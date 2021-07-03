@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: rgb(1, 1, 29);
+  color: white;
+  font-family: "Noto Sans JP", sans-serif;
+  box-sizing: border-box;
+}
+.img {
+  position: absolute;
+  left: 42px;
+  right: 84.27%;
+  top: 9.39%;
+  bottom: 83.38%;
+}
+.h1 {
+  position: absolute;
+  width: 133px;
+  height: 43px;
+  left: 42px;
+  top: 16%;
+}
+.p {
+  position: absolute;
+  left: 42px;
+  right: 26.93%;
+  top: 22.79%;
+}
+.a {
+  position: absolute;
+  left: 42px;
+  right: 26.93%;
+  top: 26.79%;
+}
+.h4 {
+  position: absolute;
+  left: 42px;
+  right: 44.27%;
+  top: 33.9%;
+}
+.input-icono {
+  position: absolute;
+  left: 42px;
+  right: 44.27%;
+  top: 38.73%;
+  bottom: 44.27%;
+  background-image: url("single-03 1.png");
+  background-repeat: no-repeat;
+  background-position: 4px center;
+  background-size: 20px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  padding-left: 28px;
+  height: 30px;
+  border: 1px solid rgba(9, 113, 163, 1);
+  border-radius: 3px;
+}
+.input-icono input {
+  width: 100%;
+  font-size: 0.9em;
+  border: none;
+}
+.input-icono input:focus {
+  outline: none;
+}
+.h42 {
+  position: absolute;
+  left: 42px;
+  right: 45.27%;
+  top: 45.9%;
+}
+.input-icono2 {
+  position: absolute;
+  left: 42px;
+  right: 44.27%;
+  top: 50.73%;
+  bottom: 54.27%;
+  background-image: url("mail.png");
+  background-repeat: no-repeat;
+  background-position: 4px center;
+  background-size: 20px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  padding-left: 28px;
+  height: 30px;
+  border: 1px solid rgba(9, 113, 163, 1);
+  border-radius: 3px;
+}
+.input-icono2 input {
+  width: 100%;
+  font-size: 0.9em;
+  border: none;
+}
+.input-icono2 input:focus {
+  outline: none;
+}
+.h43 {
+  position: absolute;
+  left: 42px;
+  right: 42.27%;
+  top: 56.9%;
+}
+.input-icono3 {
+  position: absolute;
+  left: 42px;
+  right: 44.27%;
+  top: 61.73%;
+  bottom: 54.27%;
+  background-image: url("access-key\ 1.png");
+  background-repeat: no-repeat;
+  background-position: 4px center;
+  background-size: 20px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  padding-left: 28px;
+  height: 30px;
+  border: 1px solid rgba(9, 113, 163, 1);
+  border-radius: 3px;
+}
+.input-icono3 input {
+  width: 100%;
+  font-size: 0.9em;
+  border: none;
+}
+.input-icono3 input:focus {
+  outline: none;
+}
